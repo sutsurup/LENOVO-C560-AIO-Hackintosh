@@ -24,8 +24,6 @@ Yardımcı olabilecek kaynaklar:
     Destek:       BIOS (1.18)
     Yapı:         OpenCore
 
-![](Images/Hackintosh.png)
-
 ## Donanım
 
 | **LENOVO** | Detay                                                  |
@@ -63,6 +61,9 @@ macOS High Sierra 10.13.6, Mojave 10.14.6 veya Catalina 10.15.7 sürümlerinde �
 * [ProperTree](https://osxinfo.net/konu/propertree-opencore-bootloader-icin-config-duzenleyici.12919/) (config.plist düzenlemek için)
 * Hackintool ([Forum thread](https://www.insanelymac.com/forum/topic/335018-hackintool-v286/) | [Direkt indirme linki](http://headsoft.com.au/download/mac/Hackintool.zip)) (Detaylı sistem bilgileri öğrenme ve düzenlemeleri için)
 
+## Wi-Fi ile alakalı
+Bu cihazda Atheros AR9485 Wireless kartı bulunuyor. Bu kart, macOS'in önceki sürümlerinde desteği kesilen bir kart. Mojave ve Catalina gibi sürümlerde birkaç düzenleme ile çalıştırılsa da, tam performansında çalışmayan bu kartı Big Sur'da tanıtmaya çabalamadım açıkçası. Bu her ne kadar All-in-One bir bilgisayar olsa da masaüstü olarak kullanılıyor. Muhtemel düşük performansta çalışacak bu kart yerine, Ethernet ile bağlantı sağlamak daha mantıklı bir seçim olacak. Alternatif yol olarak, Wireless kartını başka bir kart ile değiştirmek faydalı olabilir.
+
 ## İletişime geçin
 Herhangi bir adımda sorun yaşıyorsanız, öncelikli olarak [issue](https://github.com/sutsurup/LENOVO-C560-AIO-Hackintosh/issues) bölümüne destek talebi açın! Diğer sorularınız için, Website: http://sutsurup.com // Mail: [contact@sutsurup.com](contact@sutsurup.com)
 
@@ -70,5 +71,3 @@ Herhangi bir adımda sorun yaşıyorsanız, öncelikli olarak [issue](https://gi
 ![](Screenshots/BigSur.png)
 
 </details>
-
-Kolay gelsin!
