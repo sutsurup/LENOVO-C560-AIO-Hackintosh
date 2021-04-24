@@ -65,7 +65,7 @@ macOS High Sierra 10.13.6, Mojave 10.14.6 veya Catalina 10.15.7 sürümlerinde �
 Bu cihazda Atheros AR9485 Wireless kartı bulunuyor. Bu kart, macOS'in önceki sürümlerinde desteği kesilen bir kart. Mojave ve Catalina gibi sürümlerde birkaç düzenleme ile çalıştırılsa da, tam performansında çalışmayan bu kartı Big Sur'da tanıtmaya çabalamadım açıkçası. Bu her ne kadar All-in-One bir bilgisayar olsa da masaüstü olarak kullanılıyor. Muhtemel düşük performansta çalışacak bu kart yerine, Ethernet ile bağlantı sağlamak daha mantıklı bir seçim olacak. Alternatif yol olarak, Wireless kartını başka bir kart ile değiştirmek faydalı olabilir.
 
 ## İletişime geçin
-Herhangi bir adımda sorun yaşıyorsanız, öncelikli olarak [issue](https://github.com/sutsurup/LENOVO-C560-AIO-Hackintosh/issues) bölümüne destek talebi açın! Diğer sorularınız için, Website: http://sutsurup.com // Mail: [contact@sutsurup.com](contact@sutsurup.com)
+Herhangi bir adımda sorun yaşıyorsanız, öncelikli olarak [issue](https://github.com/sutsurup/LENOVO-C560-AIO-Hackintosh/issues) bölümüne destek talebi açın! Diğer sorularınız için, Website: http://sutsurup.com // Mail: [veyselfurkan@icloud.com](mailto:veyselfurkan@icloud.com)
 
 ## Ekran Görüntüleri
 ![](Screenshots/BigSur.png)
@@ -76,9 +76,8 @@ Herhangi bir adımda sorun yaşıyorsanız, öncelikli olarak [issue](https://gi
 Projeyi faydalı bulduysanız, kaynak bulma konusunda bana yardımcı olmak için bağış yapabilirsiniz:
 ```
 ₿ 1Q8CEMHTuecxPUJpEdpRiG6Bg2GVtzw4bN
-Papara ➜ 1801475764
 ``` 
 <a href='https://github.com/sutsurup/sutsurup/blob/main/Donate.md'><img alt='Bağış' src='https://github.com/sutsurup/MSI-Hackintosh-Build/blob/main/Images/donate.png?raw=true' height='360px' width='375px'/></a>
 ```
-QR kodu tarayarak alternatif seçeneklere ulaşabilirsiniz
+QR koda tıklayarak alternatif seçeneklere ulaşabilirsiniz
 ``` 
