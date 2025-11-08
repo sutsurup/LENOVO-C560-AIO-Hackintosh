@@ -1,4 +1,3 @@
-````markdown
 # Lenovo C560 All-in-One | Intel i5 (4570T)
 
 [![macOS](https://img.shields.io/badge/macOS-11.0.1-orange)](https://www.apple.com/tr/macos/big-sur/)
