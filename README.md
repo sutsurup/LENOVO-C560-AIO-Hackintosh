@@ -6,7 +6,7 @@
 
 <img align="right" src="Images/lenovo.png" alt="Lenovo">
 
-Türkçe | [English](https://github.com/sutsurup/ASUS-K555UB-Hackintosh/blob/master/README_EN.md)
+Türkçe | [English](README_EN.md)
 
 **macOS Versiyonu: 11.0.1**
 
@@ -30,9 +30,9 @@ Yardımcı olabilecek kaynaklar:
 | ------------------- | ------------------------------------------- |
 | Model Ismi      | Lenovo C560      |
 | Anakart           | 	Lenovo C560     |
-| CPU              | Intel(R) Core(TM) i5-4570T CPU @ 2.90GHz Haswell              |
-| RAM           | Hynix HMT451S6AFR8A-PB 4 GB + 2GB DDR3 1600 MHz SODIMM (Total: 6GB)   |
-| Dahili Grafik Kartı | Intel(R) HD Graphics 4600 (1GB)                    |
+| CPU              | Intel(R) Core(TM) i5-4570T CPU @ 2.90 GHz Haswell              |
+| RAM           | Hynix HMT451S6AFR8A-PB 4 GB + 2 GB DDR3 1600 MHz SODIMM (Toplam: 6 GB)   |
+| Dahili Grafik Kartı | Intel(R) HD Graphics 4600 (1 GB)                    |
 | Wi-Fi | Qualcomm Atheros AR9485 (VEN_168C&DEV_0032)                  |
 | Ses       | Realtek ALC272 (Layout: 3)                        |
 | BIOS Versiyonu      | 1.18                   |
@@ -65,7 +65,7 @@ macOS High Sierra 10.13.6, Mojave 10.14.6 veya Catalina 10.15.7 sürümlerinde �
 Bu cihazda Atheros AR9485 Wireless kartı bulunuyor. Bu kart, macOS'in önceki sürümlerinde desteği kesilen bir kart. Mojave ve Catalina gibi sürümlerde birkaç düzenleme ile çalıştırılsa da, tam performansında çalışmayan bu kartı Big Sur'da tanıtmaya çabalamadım açıkçası. Bu her ne kadar All-in-One bir bilgisayar olsa da masaüstü olarak kullanılıyor. Muhtemel düşük performansta çalışacak bu kart yerine, Ethernet ile bağlantı sağlamak daha mantıklı bir seçim olacak. Alternatif yol olarak, Wireless kartını başka bir kart ile değiştirmek faydalı olabilir.
 
 ## İletişime geçin
-Herhangi bir adımda sorun yaşıyorsanız, öncelikli olarak [issue](https://github.com/sutsurup/LENOVO-C560-AIO-Hackintosh/issues) bölümüne destek talebi açın! Diğer sorularınız için, Website: http://sutsurup.com // Mail: [veyselfurkan@icloud.com](mailto:veyselfurkan@icloud.com)
+Herhangi bir adımda sorun yaşıyorsanız, öncelikli olarak [issue](https://github.com/sutsurup/LENOVO-C560-AIO-Hackintosh/issues) bölümüne destek talebi açın! Diğer sorularınız için, Website: https://sutsurup.tr // Mail: veysel@sutsurup.tr
 
 ## Ekran Görüntüleri
 ![](Screenshots/BigSur.png)
