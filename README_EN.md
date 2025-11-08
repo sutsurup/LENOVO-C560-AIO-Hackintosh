@@ -2,7 +2,7 @@
 
 [![macOS](https://img.shields.io/badge/macOS-11.0.1-orange)](https://www.apple.com/tr/macos/big-sur/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.5-9cf)](https://github.com/acidanthera/OpenCorePkg)
-[![release](https://img.shields.io/badge/indir-son%20sürüm-blue.svg)](https://github.com/sutsurup/LENOVO-C560-AIO-Hackintosh/releases)
+[![release](https://img.shields.io/badge/download-last%20version-blue.svg)](https://github.com/sutsurup/LENOVO-C560-AIO-Hackintosh/releases)
 
 <img align="right" src="Images/lenovo.png" alt="Lenovo">
 
